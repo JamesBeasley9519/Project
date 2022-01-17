@@ -1,7 +1,7 @@
 #!/bin/bash
-#Description:
-#Author:
-#Date:
+#Description: webserver launch
+#Author:james beasley
+#Date:01/15/22
 
 
 yum install httpd -y
